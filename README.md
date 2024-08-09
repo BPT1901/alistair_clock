@@ -1,0 +1,1 @@
+A simple clock created with python and Pygame for my friend as a video test for his raspberry pi
